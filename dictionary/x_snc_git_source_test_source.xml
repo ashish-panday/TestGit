@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Source" max_length="40" name="x_snc_git_source_test_source" type="collection">
+        <element label="Description" max_length="1024" name="description" type="string"/>
+        <element label="Source Name" max_length="255" name="source_name" type="string"/>
+    </element>
+</database>
